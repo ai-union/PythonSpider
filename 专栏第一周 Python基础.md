@@ -12,7 +12,7 @@
 
    - 下载时，记得选择和自己系统对应的版本
 
-     ![1564807382096](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564807382096.png)
+     ![1564807382096](https://github.com/ai-union/PythonSpyder/blob/master/img/1564807382096.png?raw=true)
 
    - 记得下载**3.7**版本。*本片文章发布时，最新版本是3.7*
 
@@ -22,7 +22,7 @@
 
 3. 安装成功后，打开你的命令行工具，然后输入**Python**看看能得到什么？
 
-   ![1564807688948](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564807688948.png)
+   ![1564807688948](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564807688948.png?raw=true)
 
    
 
@@ -53,7 +53,7 @@
        name[0] # 这个将返回‘路’
        ```
 
-       ![1564808967916](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564808967916.png)
+       ![1564808967916](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564808967916.png?raw=true)
 
      - 字符串切片
 
@@ -63,7 +63,7 @@
        word[2:4]
        ```
 
-       ![1564809335298](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564809335298.png)
+       ![1564809335298](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564809335298.png?raw=true)
 
        > 注意切片是包含左边，不包含右边的数值。
 
@@ -74,7 +74,7 @@
        word[-6:]
        ```
 
-       ![1564809595601](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564809595601.png)
+       ![1564809595601](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564809595601.png?raw=true)
 
      - 拼接， 直接用加号就可以将多个字符串拼接在一起
 
@@ -84,7 +84,7 @@
        name + word
        ```
 
-       ![1564810175374](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564810175374.png)
+       ![1564810175374](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564810175374.png?raw=true)
 
      - 格式化字符串。有的时候我们的字符串中某个内容需要变动，这个时候就可以私用format()函数了。
 
@@ -93,7 +93,7 @@
        msg = "你好啊，{}".format(name)
        ```
 
-       ![1564810438026](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564810438026.png)
+       ![1564810438026](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564810438026.png?raw=true)
 
        > 更多的用法，我们在实际代码中再为大家介绍。
 
@@ -142,21 +142,21 @@
      getInfo()
      ```
 
-     ![1564812010365](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812010365.png)
+     ![1564812010365](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812010365.png?raw=true)
 
    - 全局变量
 
-     ![1564812252811](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812252811.png)
+     ![1564812252811](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812252811.png?raw=true)
 
      函数内是可以调用全局变量的，但是如果要修改那么就要加上global关键字。
 
-     ![1564812421392](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812421392.png)
+     ![1564812421392](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812421392.png?raw=true)
 
    - 参数
 
      函数是可以接收参数的
 
-     ![1564812728360](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812728360.png)
+     ![1564812728360](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812728360.png?raw=true)
 
      这里的name就是参数，通常我们叫它“形参”
 
@@ -164,7 +164,7 @@
 
    - 判断
 
-     ![1564812936144](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812936144.png)
+     ![1564812936144](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564812936144.png?raw=true)
 
      if 后面接的是表达式，接是否为真，为真的时候就会执行该语句的代码。如果为假的时候就会执行elif的判断或者else后面的判断。
 
@@ -174,7 +174,7 @@
 
        我们前面知道Python中有列表，那么我如果想变量列表中的所有元素该怎么操作呢?
 
-       ![1564813159414](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564813159414.png)
+       ![1564813159414](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564813159414.png?raw=true)
 
        我们看到，列表里面的名字依次被打印了出来
 
@@ -182,7 +182,7 @@
 
        我们想让程序从从1开始数，数到10停止。
 
-       ![1564813334042](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564813334042.png)
+       ![1564813334042](C:\Users\baohu\AppData\Roaming\Typora\typora-user-images\1564813334042.png?raw=true)
 
        while后面接的也是表达式，当条件满足时就会执行。
 
